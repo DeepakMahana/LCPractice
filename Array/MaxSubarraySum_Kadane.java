@@ -1,6 +1,9 @@
+// Kadane's Algo
+// Problem Link :- https://leetcode.com/problems/maximum-subarray/
+
 package Array;
 
-public class MaxSubarraySum {
+public class MaxSubarraySum_Kadane {
 
     // TC - O(N), SC - 0(1)
     public static int maxSubarraySum(int[] arr){
