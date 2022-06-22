@@ -1,6 +1,6 @@
 // Problem Link : https://www.geeksforgeeks.org/counting-inversions/
 
-package Array;
+package Array.ArrayPart_2;
 
 import java.util.Arrays;
 

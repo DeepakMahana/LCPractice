@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/merge-sorted-array/
 
-package Array;
+package Array.ArrayPart_2;
 
 import java.util.Arrays;
 

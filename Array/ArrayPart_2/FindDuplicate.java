@@ -1,6 +1,6 @@
 // Problem Link : https://leetcode.com/problems/find-the-duplicate-number
 
-package Array;
+package Array.ArrayPart_2;
 
 public class FindDuplicate {
 

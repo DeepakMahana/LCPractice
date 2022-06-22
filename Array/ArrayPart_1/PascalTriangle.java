@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/pascals-triangle/
 
-package Array;
+package Array.ArrayPart_1;
 
 import java.util.ArrayList;
 import java.util.List;

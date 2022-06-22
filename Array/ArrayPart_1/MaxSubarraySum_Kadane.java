@@ -1,7 +1,7 @@
 // Kadane's Algo
 // Problem Link :- https://leetcode.com/problems/maximum-subarray/
 
-package Array;
+package Array.ArrayPart_1;
 
 public class MaxSubarraySum_Kadane {
 

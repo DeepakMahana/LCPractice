@@ -1,7 +1,7 @@
 // ** Dutch National Flag Algorithm
 // Problem Link :- https://leetcode.com/problems/sort-colors/
 
-package Array;
+package Array.ArrayPart_1;
 
 import java.util.Arrays;
 // import java.util.HashMap;

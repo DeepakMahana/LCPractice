@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/set-matrix-zeroes/
 
-package Array;
+package Array.ArrayPart_1;
 
 import java.util.*;
 

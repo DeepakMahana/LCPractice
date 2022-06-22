@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/rotate-image/
 
-package Array;
+package Array.ArrayPart_2;
 
 import java.util.Arrays;
 

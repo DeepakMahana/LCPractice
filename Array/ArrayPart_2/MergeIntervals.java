@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/merge-intervals/
 
-package Array;
+package Array.ArrayPart_2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

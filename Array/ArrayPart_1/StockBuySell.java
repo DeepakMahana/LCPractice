@@ -1,6 +1,6 @@
 // Problem Link :- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
-package Array;
+package Array.ArrayPart_1;
 
 public class StockBuySell {
 

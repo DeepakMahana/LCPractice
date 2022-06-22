@@ -1,6 +1,6 @@
 // Problem Link :- https://www.codingninjas.com/codestudio/problems/873366
 
-package Array;
+package Array.ArrayPart_2;
 import java.util.Arrays;
 
 public class FindMissingDuplicate {
