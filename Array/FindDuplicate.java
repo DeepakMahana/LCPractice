@@ -2,8 +2,6 @@
 
 package Array;
 
-import java.util.Arrays;
-
 public class FindDuplicate {
 
     //// TC : O(N), SC : O(N)
